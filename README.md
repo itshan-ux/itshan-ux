@@ -9,10 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itshan-ux/itshan-ux/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="250" src="https://cdn.discordapp.com/attachments/1372530763651878974/1412729288364658761/download.jpeg?ex=68b95a2d&is=68b808ad&hm=67fdcf0136c82a5d9bd9d9849b81d528a9a62312dea7ec99420bb9f001932e82&"  />
 </div>
